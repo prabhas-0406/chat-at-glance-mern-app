@@ -1,0 +1,3 @@
+// Nodemon is used instead of node in package.json as it is a package which does not require subsequent re-renders
+// Mongoose is present to have schema of database
+// Package express-async-handler is for handling async calls in express
